@@ -1,0 +1,6 @@
+numbers = (1, 2, 3, 4, 5)
+colors = ("red", "blue", "green")
+person = ("Minnu", 25, 5.7, True)
+print(numbers)
+print(colors)
+print(person)
